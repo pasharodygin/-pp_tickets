@@ -1,0 +1,19 @@
+[book]
+authors = ["Chepelin Vyacheslav"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CT Notes y2024"
+
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "ayu"
+mathjax-support = true
+#curly-quotes = false  # Отключает преобразование прямых кавычек в "умные" кавычки
+git-repository-url = "https://github.com/ct-y2024/notes"
+
+
+
