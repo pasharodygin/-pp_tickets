@@ -1,4 +1,4 @@
-# M3137 -e bash-im
+# M3137 -e bash-it
 
 Техали:
 
