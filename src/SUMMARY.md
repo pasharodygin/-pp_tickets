@@ -2,4 +2,5 @@
 
 # Предметы:
 
-- [About & Links](./course.md)
+- [About](./course.md)
+- [Билеты](./tickets.md)
